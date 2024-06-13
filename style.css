@@ -2,3 +2,12 @@
   padding-top: 2rem;
   background-color: #ceabfb;
 }
+
+.card {
+  width: 25vw;
+  height: 22em;
+}
+
+.card-img-top {
+  aspect-ratio: 16/9;
+}
